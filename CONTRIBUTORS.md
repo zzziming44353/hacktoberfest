@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ziming] (https://github.com/zzziming44353)
+- place: america
+- bio: student
+- GitHub: [ziming] (https://github.com/zzziming44353)
